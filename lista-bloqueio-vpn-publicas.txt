@@ -1,0 +1,77 @@
+! =====================================
+! Lista Corporativa - Bloqueio de VPN Públicas
+! Camada 1 - DNS Filtering
+! =====================================
+
+! NordVPN
+||nordvpn.com^
+||nordcdn.com^
+
+! ExpressVPN
+||expressvpn.com^
+
+! Surfshark
+||surfshark.com^
+
+! ProtonVPN
+||protonvpn.com^
+||proton.me^
+
+! Psiphon
+||psiphon.ca^
+||psiphon3.com^
+
+! TunnelBear
+||tunnelbear.com^
+
+! Hotspot Shield
+||hotspotshield.com^
+
+! Windscribe
+||windscribe.com^
+
+! Betternet
+||betternet.co^
+
+! HideMyAss
+||hidemyass.com^
+
+! VPNBook
+||vpnbook.com^
+
+! Opera VPN
+||opera.com^$domain=opera.com
+
+! Cloudflare WARP
+||cloudflarewarp.com^
+||warp.cloudflare.com^
+
+! 1.1.1.1 App
+||one.one.one.one^
+
+! Outline VPN
+||getoutline.org^
+
+! Private Internet Access
+||privateinternetaccess.com^
+
+! CyberGhost
+||cyberghostvpn.com^
+
+! IPVanish
+||ipvanish.com^
+
+! Mullvad
+||mullvad.net^
+
+! Tor Project
+||torproject.org^
+
+! Lantern VPN
+||getlantern.org^
+
+! Browsec
+||browsec.com^
+
+! Hola VPN
+||hola.org^
