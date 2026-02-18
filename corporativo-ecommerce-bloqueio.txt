@@ -1,187 +1,135 @@
-! ================================
-! COMPLEMENTO - MODA E VESTUÁRIO (Solicitados + Extras)
-! ================================
 
-! Renner
+! =========================================
+! POLÍTICA CORPORATIVA - E-COMMERCE BLOQUEIO
+! =========================================
+
+! =========================================
+! MODA E VESTUÁRIO
+! =========================================
+
 ||lojasrenner.com.br^
 ||renner.com^
-
-! Riachuelo
 ||riachuelo.com.br^
 ||midway.com.br^
-
-! C&A
 ||cea.com.br^
-
-! Dafiti (e grupo GFG)
 ||dafiti.com.br^
 ||dafitisports.com.br^
 ||kanui.com.br^
 ||tricae.com.br^
-
-! Zattini (Netshoes Group)
 ||zattini.com.br^
-
-! Marisa
 ||marisa.com.br^
 ||lojasmarisa.com.br^
-
-! Zara
 ||zara.com^
-
-! Hering
 ||hering.com.br^
-
-! Vans
 ||vans.com.br^
 
-! ================================
-! ESPORTES (Solicitados + Extras)
-! ================================
+! =========================================
+! ESPORTES
+! =========================================
 
-! Centauro
 ||centauro.com.br^
-
-! Nike
 ||nike.com.br^
 ||nike.com^
-
-! Adidas
 ||adidas.com.br^
 ||adidas.com^
-
-! Decathlon
 ||decathlon.com.br^
-
-! Puma
 ||puma.com^
-
-! Under Armour
 ||underarmour.com.br^
 
-! ================================
-! GRANDES MARKETPLACES (Faltantes Críticos)
-! ================================
+! =========================================
+! MARKETPLACES (Amazon e Mercado Livre NÃO bloqueados)
+! =========================================
 
-
-
-! Enjoei
 ||enjoei.com.br^
 ||enjoei.com^
-
-! OLX (Muito usado em horário comercial)
 ||olx.com.br^
-
-! Elo7
 ||elo7.com.br^
-
-! Havan
 ||havan.com.br^
-
-! Carrefour
 ||carrefour.com.br^
-
-! Shoptime
 ||shoptime.com.br^
-
-! AliExpress
 ||aliexpress.com^
 ||aliexpress.com.br^
 ||alicdn.com^
-
-! Magazine Luiza
 ||magazineluiza.com.br^
 ||magalu.com^
-
-! Shopee
 ||shopee.com^
 ||shopee.com.br^
 ||mall.shopee.com^
 ||cf.shopee.com^
 ||shopeemobile.com^
-
-! Shein
+||shopeeusercontent.com^
+||shp.ee^
 ||shein.com^
 ||shein.com.br^
 ||api.shein.com^
 ||cdn.shein.com^
-
-! Temu
+||sheincdn.com^
+||sheinstatic.com^
 ||temu.com^
 ||temu.com.br^
 ||api.temu.com^
 ||temucdn.com^
-
-! Netshoes
+||temu-cdn.com^
+||temuapi.com^
 ||netshoes.com.br^
 ||netshoes.com^
 ||static.netshoes.com.br^
+||mercadolivre.com.br^
+||mercadolivre.com^
+||mercadolibre.com^
+||amazon.com.br^
+||amazon.com^
+||a.co^
 
-! ================================
-! ELETRÔNICOS E HARDWARE (Além da Kabum)
-! ================================
+! =========================================
+! ELETRÔNICOS E HARDWARE
+! =========================================
 
-! Pichau
 ||pichau.com.br^
-
-! Terabyte Shop
 ||terabyteshop.com.br^
-
-! Fast Shop
 ||fastshop.com.br^
+||kalunga.com.br^
 
 
-! ================================
+! =========================================
 ! BELEZA E COSMÉTICOS
-! ================================
+! =========================================
 
-! O Boticário
 ||boticario.com.br^
-
-! Natura
 ||natura.com.br^
-
-! Sephora
 ||sephora.com.br^
-
-! Beleza na Web
 ||belezanaweb.com.br^
-
-! Época Cosméticos
 ||epocacosmeticos.com.br^
 
-! ================================
+! =========================================
 ! CASA E DECORAÇÃO
-! ================================
+! =========================================
 
-! MadeiraMadeira
 ||madeiramadeira.com.br^
-
-! Mobly
 ||mobly.com.br^
-
-! Camicado
 ||camicado.com.br^
-
-! Tok&Stok
 ||tokstok.com.br^
-
-! Ponto Frio
 ||pontofrio.com.br^
-
-! Americanas
 ||americanas.com.br^
-
-! Casas Bahia
 ||casasbahia.com.br^
-
-! Submarino
 ||submarino.com.br^
 
+! =========================================
+! COMPARADORES DE PREÇO E CUPONS
+! =========================================
 
-
-! ================================
-! COMPARADORES DE PREÇO (Porta de entrada)
-! ================================
 ||zoom.com.br^
 ||buscape.com.br^
+||cuponomia.com.br^
+||meliuz.com.br^
+||cupomvalido.com.br^
+||pelando.com.br^
+
+! =========================================
+! DEEP LINKING / APP REDIRECT
+! =========================================
+
+||app.link^
+||adjust.com^
+||branch.io^
+
