@@ -1,0 +1,71 @@
+! ===============================
+! Lista Corporativa - Redes Sociais
+! ===============================
+
+! Facebook
+||facebook.com^
+||fbcdn.net^
+
+! Messenger
+||messenger.com^
+
+! Instagram
+||instagram.com^
+||cdninstagram.com^
+
+! Twitter / X
+||twitter.com^
+||x.com^
+||twimg.com^
+||t.co^
+
+! TikTok
+||tiktok.com^
+||tiktokcdn.com^
+||tiktokv.com^
+||akamaized.net^$domain=tiktok.com
+
+! Pinterest
+||pinterest.com^
+||pinimg.com^
+
+! Tumblr
+||tumblr.com^
+
+! Snapchat
+||snapchat.com^
+||sc-cdn.net^
+||snapsc.com^
+
+! Threads
+||threads.net^
+
+! Telegram
+||telegram.org^
+||t.me^
+
+! Discord
+||discord.com^
+||discord.gg^
+||discordapp.com^
+||discordapp.net^
+
+! Signal
+||signal.org^
+
+! Twitch
+||twitch.tv^
+||ttvnw.net^
+||twitchcdn.net^
+
+! Vimeo
+||vimeo.com^
+
+! Tinder
+||tinder.com^
+||gotinder.com^
+
+! Kwai
+||kwai.com^
+||kwai.net^
+||kwaicdn.com^
