@@ -42,11 +42,16 @@
 
 ||enjoei.com.br^
 ||enjoei.com^
+||olx.com.br^
 ||elo7.com.br^
 ||havan.com.br^
+||carrefour.com.br^
+||shoptime.com.br^
 ||aliexpress.com^
 ||aliexpress.com.br^
 ||alicdn.com^
+||magazineluiza.com.br^
+||magalu.com^
 ||shopee.com^
 ||shopee.com.br^
 ||mall.shopee.com^
@@ -69,11 +74,21 @@
 ||netshoes.com.br^
 ||netshoes.com^
 ||static.netshoes.com.br^
+||mercadolivre.com.br^
+||mercadolivre.com^
+||mercadolibre.com^
+||amazon.com.br^
+||amazon.com^
+||a.co^
 
 ! =========================================
 ! ELETRÔNICOS E HARDWARE
 ! =========================================
 
+||pichau.com.br^
+||terabyteshop.com.br^
+||fastshop.com.br^
+||kalunga.com.br^
 
 
 ! =========================================
@@ -90,6 +105,14 @@
 ! CASA E DECORAÇÃO
 ! =========================================
 
+||madeiramadeira.com.br^
+||mobly.com.br^
+||camicado.com.br^
+||tokstok.com.br^
+||pontofrio.com.br^
+||americanas.com.br^
+||casasbahia.com.br^
+||submarino.com.br^
 
 ! =========================================
 ! COMPARADORES DE PREÇO E CUPONS
@@ -109,5 +132,4 @@
 ||app.link^
 ||adjust.com^
 ||branch.io^
-
 
