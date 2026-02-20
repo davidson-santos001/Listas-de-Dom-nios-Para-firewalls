@@ -69,3 +69,12 @@
 ||kwai.com^
 ||kwai.net^
 ||kwaicdn.com^
+||kwai^
+/kwai/
+||m.kwai.com^
+||s.kwai.com^
+||api.kwai.com^
+||ads.kwai.com^
+||live.kwai.com^
+||static.kwai.com^
+
