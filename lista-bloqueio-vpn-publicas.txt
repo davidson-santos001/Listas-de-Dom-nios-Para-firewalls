@@ -42,10 +42,6 @@
 ! Opera VPN
 ||opera.com^$domain=opera.com
 
-! Cloudflare WARP
-||cloudflarewarp.com^
-||warp.cloudflare.com^
-
 ! 1.1.1.1 App
 ||one.one.one.one^
 
@@ -75,3 +71,4 @@
 
 ! Hola VPN
 ||hola.org^
+
