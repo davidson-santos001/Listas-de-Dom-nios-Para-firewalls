@@ -72,5 +72,8 @@ one.one.one.one^
 ! Hola VPN
 ||hola.org^
 
+! yandex
+||yandex.com^
+
 
 
