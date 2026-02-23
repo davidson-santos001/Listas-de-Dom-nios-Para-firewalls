@@ -5,6 +5,10 @@
 ! Facebook
 ||facebook.com^
 ||fbcdn.net^
+||connect.facebook.net^
+||graph.facebook.com^
+||edge-mqtt.facebook.com^
+||mqtt-mini.facebook.com^
 
 ! Messenger
 ||messenger.com^
@@ -12,6 +16,9 @@
 ! Instagram
 ||instagram.com^
 ||cdninstagram.com^
+||graph.instagram.com^
+||i.instagram.com^
+||im.instagram.com^
 
 ! Twitter / X
 ||twitter.com^
@@ -24,6 +31,10 @@
 ||tiktokcdn.com^
 ||tiktokv.com^
 ||akamaized.net^$domain=tiktok.com
+||ibytedtos.com^
+||byteoversea.com^
+||musical.ly^
+||bytedance.com^
 
 ! Pinterest
 ||pinterest.com^
@@ -36,9 +47,12 @@
 ||snapchat.com^
 ||sc-cdn.net^
 ||snapsc.com^
+||snapads.com^
+||snapkit.com^
 
 ! Threads
 ||threads.net^
+||threads.com^
 
 ! Telegram
 ||telegram.org^
@@ -49,6 +63,8 @@
 ||telegram-cdn.org^
 ||telegramusercontent.com^
 ||cdn-telegram.org^
+||cdn4.telegram-cdn.org^
+||cdn5.telegram-cdn.org^
 ||api.telegram.org^
 ||core.telegram.org^
 
@@ -57,6 +73,8 @@
 ||discord.gg^
 ||discordapp.com^
 ||discordapp.net^
+||discord.media^
+||discordusercontent.com^
 
 ! Signal
 ||signal.org^
@@ -77,8 +95,6 @@
 ||kwai.com^
 ||kwai.net^
 ||kwaicdn.com^
-||kwai^
-/kwai/
 ||m.kwai.com^
 ||s.kwai.com^
 ||api.kwai.com^
@@ -86,5 +102,6 @@
 ||live.kwai.com^
 ||static.kwai.com^
 
-
+! onlyfans
+||onlyfans.com^
 
