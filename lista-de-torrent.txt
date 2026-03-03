@@ -1,15 +1,51 @@
-||torrent^
-||pirate^
-||rarbg^
+! ===== TORRENT / PIRATARIA BLOCKLIST =====
+
+! Principais palavras-chave específicas
+||thepiratebay^
+||piratebay^
+||pirateproxy^
+||kickass^
+||kat.cr^
 ||1337x^
-||yts^
+||rarbg^
+||yts.^
+||yify^
 ||limetorrents^
 ||zooqle^
-||thepiratebay^
-||kickass^
-||nyaa^
-||rutracker^
-||demonoid^
-||eztv^
-||magnetdl^
 ||torrentgalaxy^
+||demonoid^
+||eztv.^
+||magnetdl^
+||rutracker^
+||nyaa.^
+||torrentz2^
+||torrentz.^
+
+! Variações comuns
+||*.unblocked.llc^
+||*.unblocked.bet^
+||*.unblocked.ist^
+||*.unblckd.bet^
+
+! Sites genéricos de torrent mais comuns
+||torrentdownloads^
+||torrentfunk^
+||torrenthound^
+||torrentreactor^
+||torrentleech^
+||torlock^
+||zooqle^
+||monova^
+||extratorrent^
+||btjunkie^
+||isohunt^
+||seedpeer^
+
+! Trackers públicos conhecidos
+||openbittorrent.com^
+||opentracker.^
+||tracker.openbittorrent.com^
+||tracker.thepiratebay.org^
+||tracker.torrent.eu.org^
+
+! ===== FIM =====
