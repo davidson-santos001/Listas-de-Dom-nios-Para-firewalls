@@ -38,6 +38,8 @@
 ||musical.ly^
 ||bytedance.com^
 ||p16-pu-sign-no.tiktokcdn-eu.com.edgesuite.net^
+||tiktokcdn-eu.com^
+||edgesuite.net^
 
 ! Pinterest
 ||pinterest.com^
@@ -109,6 +111,7 @@
 
 ! onlyfans
 ||onlyfans.com^
+
 
 
 
