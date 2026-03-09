@@ -1,3 +1,5 @@
 ||ilovepdf.com^
-||api.ilovepdf.com^
 ||ilovepdf.io^
+||cdn.ilovepdf.com^
+||static.ilovepdf.com^
+||api.ilovepdf.com^
