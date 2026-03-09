@@ -7,8 +7,10 @@
 @@||fast.com^
 @@||api.fast.com^
 @@||fastly.net^
-@@||sistemas.local/doutoragora/^
-@@||cic.doutoragora.com.br/^
+@@||sistemas.local/doutoragora^
+@@||cic.doutoragora.com.br^
+@@||cemigsaude.totvscloud.com.br^
+
 
 
 
