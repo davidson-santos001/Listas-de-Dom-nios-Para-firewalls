@@ -48,7 +48,6 @@
 ||lf16-ttcdn-tos.pstatp.com^
 ||lf3-ttcdn-tos.pstatp.com^
 ||lf6-ttcdn-tos.pstatp.com^
-||akamaized.net^$domain=tiktok.com
 ||p16-pu-sign-no.tiktokcdn-eu.com.edgesuite.net^
 ||edgesuite.net^
 
@@ -123,6 +122,7 @@
 
 ! onlyfans
 ||onlyfans.com^
+
 
 
 
