@@ -20,6 +20,8 @@
 @@||mcdn.com^
 @@||meliuz.com^
 
+! Facebook
+@@||developers.facebook.com^
 
 
 
