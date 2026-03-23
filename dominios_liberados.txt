@@ -23,6 +23,7 @@
 @@||sistema.shosp.com.br^
 @@||conta.uol.com.br^
 @@||uol.com.br^
+@@||meupainelhost.uol.com.br^
 ! Facebook
 @@||developers.facebook.com^
 
