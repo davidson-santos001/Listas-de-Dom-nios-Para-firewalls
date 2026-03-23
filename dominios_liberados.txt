@@ -20,7 +20,7 @@
 @@||mercadolibre.com.br^
 @@||mcdn.com^
 @@||meliuz.com^
-@@||sistemas.shosp.com.br^
+@@||sistema.shosp.com.br^
 
 ! Facebook
 @@||developers.facebook.com^
