@@ -6,6 +6,19 @@
 ! Messenger
 ||messenger.com^
 
+! Facebook
+!||facebook.com^
+!||fbcdn.net^
+!||connect.facebook.net^
+!||graph.facebook.com^
+!||edge-mqtt.facebook.com^
+!||mqtt-mini.facebook.com^
+!||dgw-ig.c10r.facebook.com^
+||edgesuite.net^
+
+! Facebook
+||facebook.com^
+
 ! Instagram
 ||instagram.com^
 ||cdninstagram.com^
