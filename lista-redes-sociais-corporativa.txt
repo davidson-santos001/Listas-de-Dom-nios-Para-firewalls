@@ -14,7 +14,7 @@
 !||edge-mqtt.facebook.com^
 !||mqtt-mini.facebook.com^
 !||dgw-ig.c10r.facebook.com^
-||edgesuite.net^
+
 
 ! Facebook
 ||facebook.com^
