@@ -40,6 +40,9 @@
 @@||*.dracic.saudeagora.com.*^
 @@||dracic.saudeagora.com.vc/saude-agora-vita/rest^
 @@||*.dracic.saudeagora.com.vc/saude-agora-vita/rest^
+@@||*.doutoragorabh.clinica.dav.med.br^
+@@||*.doutoragorabh.clinica.*^
+@@||*.doutoragorabh.*^
 @@||*.portal.blip.ai^
 @@||portal.blip.ai.*^
 @@||portal.blip.ai^
